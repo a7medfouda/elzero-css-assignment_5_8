@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* start assignment one  */
+.container-1 {
+  margin-bottom: 50px;
+}
+.container-1 div {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.assign-1-shape-1 {
+  background-color: rgb(138, 43, 226);
+  background-color: #8a2be2;
+  background-color: hsl(271, 76%, 53%);
+}
+.assign-1-shape-2 {
+  background: rgba(138, 43, 226, 0.5);
+}
+.assign-1-shape-3 {
+  background: rgba(138, 43, 226, 0.1);
+}
+/* end assignment one */
+/* start assignment two */
+.container-2 {
+  margin-bottom: 50px;
+}
+.container-2 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(image/css-assignment-5-8.png);
+  background-color: tomato;
+  margin-bottom: 10px;
+}
+.assign-2-shape-1 {
+  background-repeat: no-repeat;
+}
+.assign-2-shape-2 {
+  background-repeat: repeat-y;
+}
+.assign-2-shape-3 {
+  background-repeat: repeat-x;
+}
+.assign-2-shape-4 {
+  background-repeat: repeat;
+}
+/* end assignment two */
+
+/* start assignment three  */
+.container-3 {
+  margin-bottom: 50px;
+}
+.container-3 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(image/css-assignment-5-8.png);
+  background-color: tomato;
+  margin-bottom: 10px;
+}
+.assign-3-shape-1 {
+  background-repeat: no-repeat;
+}
+.assign-3-shape-2 {
+  background-repeat: repeat-y;
+  background-position: right;
+}
+.assign-3-shape-3 {
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+.assign-3-shape-4 {
+  background-repeat: repeat;
+}
+/* end assignment three  */
+/* start assignment four  */
+.container-4 {
+  margin-bottom: 50px;
+}
+.container-4 div {
+  width: 400px;
+  height: 400px;
+  background-image: url(image/css-assignment-5-8.png);
+  background-color: tomato;
+  margin-bottom: 10px;
+}
+.assign-4-shape-1 {
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+.assign-4-shape-2 {
+  background-repeat: no-repeat;
+  background-size: 80% 100%;
+  background-position: right;
+}
+.assign-4-shape-3 {
+  background-repeat: no-repeat;
+  background-size: 100% 80%;
+  background-position: bottom;
+}
+.assign-4-shape-4 {
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  background-position-x: right;
+  background-position-y: bottom;
+}
+/* end assignment four  */
